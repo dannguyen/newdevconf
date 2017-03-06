@@ -1,0 +1,15 @@
+name: PyCon
+description: |
+  PyCon is the largest annual gathering for the community that uses and develops the open-source Python programming language. PyCon is organized by the Python community for the community. We try to keep registration far cheaper than most comparable technology conferences to make PyCon accessible to the widest group possible. PyCon is a diverse conference dedicated to providing an enjoyable experience to everyone. Our code of conduct is intended to help everyone maintain the PyCon spirit. We thank all attendees and staff for observing it.
+
+dates:
+  - url: https://us.pycon.org/2017/
+    date:
+      start: 2017-05-17
+      end: 2017-05-25
+    location:
+      city: Portland
+      state: Oregon
+      country: US
+      venue: Oregon Convention Center
+      address: "777 NE Martin Luther King, Jr. Blvd"
